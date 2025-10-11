@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-09 18:35:42,https://jzb.wwkejishe.top/?id=582$订阅源
+2025-10-11 18:32:51,https://jzb.wwkejishe.top/?id=582$订阅源
 
 📺央视频道,#genre#
 CCTV-5,https://jzb.wwkejishe.top/?id=582$订阅源
@@ -8,9 +8,10 @@ CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u
 CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100$订阅源
 CCTV-6,https://jzb.wwkejishe.top/?id=584$订阅源
 CCTV-8,https://jzb.wwkejishe.top/?id=586$订阅源
+CCTV-9,https://jzb.wwkejishe.top/?id=587$订阅源
+CCTV-10,https://jzb.wwkejishe.top/?id=588$订阅源
 CCTV-11,https://jzb.wwkejishe.top/?id=589$订阅源
-CCTV-11,https://cc06.tv12.xyz/12.m3u8$订阅源
-CCTV-11,https://cc06.tv12.xyz/12.m3u8$订阅源
+CCTV-12,https://cc06.tv12.xyz/13.m3u8$订阅源
 CCTV-12,https://cc06.tv12.xyz/13.m3u8$订阅源
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
@@ -24,9 +25,11 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88
 CCTV-14,https://jzb.wwkejishe.top/?id=592$订阅源
 CCTV-14,https://smart.pendy.dpdns.org/Smart.php?id=cctv14$订阅源
 CCTV-14,https://cc06.tv12.xyz/15.m3u8$订阅源
+CCTV-15,https://jzb.wwkejishe.top/?id=593$订阅源
 CCTV-15,https://smart.pendy.dpdns.org/Smart.php?id=cctv15$订阅源
 CCTV-15,https://cc06.tv12.xyz/16.m3u8$订阅源
 CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8$订阅源
+CCTV-17,https://jzb.wwkejishe.top/?id=594$订阅源
 CCTV-17,https://cc06.tv12.xyz/17.m3u8$订阅源
 
 📡卫视频道,#genre#
@@ -58,22 +61,23 @@ CCTV-17,https://cc06.tv12.xyz/17.m3u8$订阅源
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8$订阅源
 广西卫视,https://smart.pendy.dpdns.org/Smart.php?id=guangxi$订阅源
 广西卫视,https://cc06.tv12.xyz/46.m3u8$订阅源
+贵州卫视,https://jzb.wwkejishe.top/?id=619$订阅源
 贵州卫视,https://cc06.tv12.xyz/48.m3u8$订阅源
 海南卫视,https://jzb.wwkejishe.top/?id=600$订阅源
 海南卫视,https://cc06.tv12.xyz/93.m3u8$订阅源
+河北卫视,https://jzb.wwkejishe.top/?id=615$订阅源
 河北卫视,https://cc06.tv12.xyz/51.m3u8$订阅源
 河南卫视,https://cc06.tv12.xyz/49.m3u8$订阅源
 吉林卫视,https://cc06.tv12.xyz/60.m3u8$订阅源
 江苏卫视,https://cc06.tv12.xyz/61.m3u8$订阅源
 江西卫视,https://cc06.tv12.xyz/62.m3u8$订阅源
 辽宁卫视,https://cc06.tv12.xyz/70.m3u8$订阅源
-内蒙古卫视,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8$订阅源
-内蒙古卫视,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8$订阅源
 内蒙古卫视,https://cc06.tv12.xyz/94.m3u8$订阅源
 宁夏卫视,https://cc06.tv12.xyz/96.m3u8$订阅源
 青海卫视,https://cc06.tv12.xyz/97.m3u8$订阅源
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8$订阅源
 山东卫视,https://cc06.tv12.xyz/101.m3u8$订阅源
+山西卫视,https://jzb.wwkejishe.top/?id=624$订阅源
 山西卫视,https://cc06.tv12.xyz/107.m3u8$订阅源
 陕西卫视,https://jzb.wwkejishe.top/?id=603$订阅源
 陕西卫视,https://cc06.tv12.xyz/106.m3u8$订阅源
